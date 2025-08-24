@@ -1,0 +1,29 @@
+本次更新了**一點點**內容 詳細請參照下方更新清單
+## Create 系列
+- [偽裝貓](https://modrinth.com/mod/copycats)
+## 農夫樂事 系列
+- [茶葉樂事](https://modrinth.com/mod/herbal-delight)
+- [地獄樂事](https://modrinth.com/mod/nethers-delight-refabricated)
+- [鄉村樂事](https://modrinth.com/mod/rustic-delight)
+- [櫻途樂事](https://modrinth.com/mod/trailtales-delight)
+## QoL 模組
+- [可切換合成表](https://modrinth.com/mod/polymorph)
+- [束口袋](https://modrinth.com/mod/icu_bundles)
+- [睡袋](https://modrinth.com/mod/comforts)
+- [Trinkets Compat Layer for Accessories](https://modrinth.com/mod/accessories-tc-layer)
+- [1.21 幅畫](https://modrinth.com/mod/backport-paintings-1.21)
+## 純用戶端
+- [動態環境音效](https://modrinth.com/mod/dynamicsurroundingsfabric)
+- [立體音效](https://modrinth.com/mod/sound-physics-remastered)
+- [腳步聲](https://modrinth.com/mod/presence-footsteps)
+- [聲音](https://modrinth.com/mod/sound)
+- [整理一下！](https://modrinth.com/mod/sort-it-out)
+## 資源包
+部分模組的翻譯缺少由 AI 補充，若有任何錯誤請回報
+## 光影
+- [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
+- [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined)
+- [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound)
+## 按鍵配置
+- 取消了 Simple Voice Chat 的部分按鍵設定
+- Simple Voice Chat 的說話按鍵現在為 c
