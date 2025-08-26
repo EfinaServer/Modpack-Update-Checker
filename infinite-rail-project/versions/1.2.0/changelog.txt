@@ -1,1 +1,69 @@
-TBD 等我哪天想起乃的時候
+## ✨簡單介紹此次更新
+本次更新以用戶端與伺服器優化為主，並修正部分 Bug。
+新增沉浸式系列模組與 Tom 的簡單儲物，提供樂器、圖片、自訂家具等功能，並大幅簡化倉庫整理。
+同時加入「狀態」模組，讓他人能清楚知道你正在進行的活動。
+預設也移除 Replay 模組，讓需要的人可以自行安裝。
+
+## ⚙設定變動
+- 新增模組包更新日誌
+- 主選單與 Esc 變動，增加了版本與模組包資訊
+- 精簡化資源包覆蓋內容，現在不會顯示任何非必要性資訊
+- 新增搬運物品的黑名單
+- 狀態介面的按鍵設定預設為 ``,``
+## 📦資源變動
+- 火車嘟嘟嘟翻譯補充資源包正式更名為 IRPAL.zip 以符合模組包名稱
+- 新增 Arid's Immersive Resprites💠[Modrinth](https://modrinth.com/resourcepack/arids-immersive-resprites)
+- 新增 Tom's Create Storage💠[Modrinth](https://modrinth.com/resourcepack/toms-create-storage)｜[CurseForge](https://www.curseforge.com/minecraft/texture-packs/create-simple-storage)
+- 🔵 更新了兩個資源包
+## ⛏️模組變動
+- 🔵 更新了六個模組
+* 遊玩內容類
+  - 新增 Status💠[Modrinth](https://modrinth.com/mod/status)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/content-creator-server-status)
+  - 新增 Better Days💠[Modrinth](https://modrinth.com/mod/betterdays)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+  - 新增 Disable Enderman Picking Up Blocks💠[Modrinth](https://modrinth.com/mod/disable-enderman-picking-up-blocks)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/disable-enderman-picking-up-blocks)
+  - 新增 Supplementaries Squared💠[Modrinth](https://modrinth.com/mod/supplementaries-squared)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared)
+  - 新增 Immersive Furniture💠[Modrinth](https://modrinth.com/mod/immersive-furniture)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-furniture)
+  - 新增 Immersive Melodies💠[Modrinth](https://modrinth.com/mod/immersive-melodies)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-melodies)
+  - 新增 Immersive Optimization💠[Modrinth](https://modrinth.com/mod/immersive-optimization)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-optimization)
+  - 新增 Immersive Paintings💠[Modrinth](https://modrinth.com/mod/immersive-paintings)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings)
+  - 新增 Tom's Simple Storage Mod💠[Modrinth](https://modrinth.com/mod/toms-storage)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/toms-storage)
+  - 新增 Polymorphic Tom's Simple Storag💠[Modrinth](https://modrinth.com/mod/polymorphic-toms-simple-storag)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/polymorphic-tom)
+  - 新增 Create Contraption Terminals💠[Modrinth](https://modrinth.com/mod/create-contraption-terminals)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-contraption-terminals)
+* 優化類
+  - 新增 AsyncParticles💠[Modrinth](https://modrinth.com/mod/asyncparticles)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/asyncparticles)
+  - 新增 BadOptimizations💠[Modrinth](https://modrinth.com/mod/badoptimizations)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/badoptimizations)
+  - 新增 Dynamic FPS💠[Modrinth](https://modrinth.com/mod/dynamic-fps)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
+  - 新增 Too Fast💠[Modrinth](https://modrinth.com/mod/too-fast)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/too-fast)
+  - 新增 RightClickHarvest💠[Modrinth](https://modrinth.com/mod/rightclickharvest)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
+  - 新增 RightClickHarvest Supplementaries Compat💠[Modrinth](https://modrinth.com/mod/rch-supplementaries-compat)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest-supplementaries-compat)
+  - 新增 Mouse Tweaks💠[Modrinth](https://modrinth.com/mod/mouse-tweaks)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+  - 新增 Packet Fixer💠[Modrinth](https://modrinth.com/mod/packet-fixer)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/packet-fixer)
+  - 新增 Load My F***ing Tags💠[Modrinth](https://modrinth.com/mod/lmft)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lmft)
+  - 新增 Fast IP Ping💠[Modrinth](https://modrinth.com/mod/fast-ip-ping)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping)
+  - 新增 Fast Paintings💠[Modrinth](https://modrinth.com/mod/fast-paintings)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fast-paintings)
+* 用戶端、視覺類
+  - 新增 Client Sort💠[Modrinth](https://modrinth.com/mod/clientsort)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/clientsort)
+  - 新增 Skin Layers 3D💠[Modrinth](https://modrinth.com/mod/3dskinlayers)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
+  - 新增 BetterGrassify💠[Modrinth](https://modrinth.com/mod/bettergrassify)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/bettergrassify)
+  - 新增 Controlling💠[Modrinth](https://modrinth.com/mod/controlling)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling)
+  - 新增 No Report Button💠[Modrinth](https://modrinth.com/mod/nrb)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/no-report-button)
+  - 新增 Visuality💠[Modrinth](https://modrinth.com/mod/visuality)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/visuality)
+  - 新增 What Are They Up To (Watut)💠[Modrinth](https://modrinth.com/mod/what-are-they-up-to)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to)
+  - 新增 Resource Pack Overrides💠[Modrinth](https://modrinth.com/mod/resource-pack-overrides)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides)
+  - 新增 Paxi💠[Modrinth](https://modrinth.com/mod/paxi)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/paxi)
+  - 新增 Particle Rain💠[Modrinth](https://modrinth.com/mod/particle-rain)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
+  - 新增 Modpack Update Checker💠[Modrinth](https://modrinth.com/mod/modpack-update-checker)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modpack-update-checker)
+  - 新增 FancyMenu💠[Modrinth](https://modrinth.com/mod/fancymenu)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancymenu)
+* 依賴庫
+  - 新增 CoroUtil💠[Modrinth](https://modrinth.com/mod/coroutil)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/coroutil)
+  - 新增 YUNG's API💠[Modrinth](https://modrinth.com/mod/yungs-api)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
+  - 新增 Searchables💠[Modrinth](https://modrinth.com/mod/searchables)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables)
+  - 新增 Konkrete💠[Modrinth](https://modrinth.com/mod/konkrete)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/konkrete)
+  - 新增 Melody💠[Modrinth](https://modrinth.com/mod/melody)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/melody)
+* 調整（將僅限伺服端的模組改為用戶端也需要安裝）
+  - Create: Ultimate Factory💠[Modrinth](https://modrinth.com/mod/create-ultimate-factory)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-ultimate-factory)
+  - Create: Oxidized💠[Modrinth](https://modrinth.com/mod/create_oxidized)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-oxidized)
+* 移除模組
+  - 移除 bad packets（替換）💠[Modrinth](https://modrinth.com/mod/badpackets)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/badpackets)
+  - 移除 ReplayMod💠[Modrinth](https://modrinth.com/mod/replaymod)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/replay-mod-fabric-and-forge)
+  - 移除 Sort It Out!（替換）💠[Modrinth](https://modrinth.com/mod/sort-it-out)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sort-it-out)
