@@ -1,5 +1,5 @@
 ## ✨ 穩定性更新
-本次更新主要針對伺服器穩定性進行調整，移除了兩個可能導致崩潰或效能問題的模組：  
+本次更新主要針對穩定性進行調整，移除了兩個導致崩潰的模組：  
 - **I Can't Update - Bundles Of Bravery**：會與 *Create Steam 'n' Rails* 介面發生衝突並造成崩潰。  
 - **Immersive Furniture**：疑似因過度放置家具，會導致伺服器長時間卡死（timeout），原因未知。 
 
