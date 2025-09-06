@@ -41,6 +41,16 @@
           "modrinth":"https://modrinth.com/modpack/infinite-rail-project/version/1.2.1"
         }
       }
+    },
+    {
+      "id":"1.2.2",
+      "type":"major",
+      "releasedAt":1757175240000,
+      "promotions":{
+        "downloads":{
+          "modrinth":"https://modrinth.com/modpack/infinite-rail-project/version/1.2.2"
+        }
+      }
     }
   ]
 }

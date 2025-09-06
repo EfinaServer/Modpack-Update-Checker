@@ -1,0 +1,11 @@
+📦 模組與資源包變動
+- ⚪ 新增 [Better Compatibility Checker](https://modrinth.com/mod/better-compatibility-checker)
+- 🔵 更新了四個模組
+- 🔵 更新了一個資源包
+
+🌃 光影
+- ⚪ 新增 [Photon Shaders](https://modrinth.com/shader/photon-shader) 光影包
+
+⚙️ 設定變動
+- **Carry On**：黑名單新增了 Create 相關附加與 Supplementaries
+- **Tom's Simple Storage Mod**：預設進階無線終端的按鍵綁定為 ``x``
