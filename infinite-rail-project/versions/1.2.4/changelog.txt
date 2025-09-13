@@ -1,3 +1,9 @@
-📦 模組與資源包變動
-- 🔵 更新了五個模組
-- 🔵 更新了一個資源包
+## 🔄📦模組更新
+- 更新 Balm
+- 更新 Client Sort
+- 更新 Fabric Language Kotlin
+- 更新 Moonlight Lib
+- 更新 Simple Voice Chat
+
+## 🔄🎨資源包更新
+- 更新 Para 翻譯包

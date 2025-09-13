@@ -7,10 +7,15 @@
 - **沉浸式系列模組（如繪畫等）請避免放入結構打印工具**（如 *Create* 的藍圖大砲）。  
 - 由於這些模組的方塊屬於「無限變體」類型，伺服器無法正確識別，將導致結構生成失敗甚至崩潰。 
 
-## 📦模組變動
-- 🔴 移除 I Can't Update - Bundles Of Bravery💠[Modrinth](https://modrinth.com/mod/icu_bundles)
-- 🔴 移除 Immersive Furniture💠[Modrinth](https://modrinth.com/mod/immersive-furniture)｜[CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-furniture)
-- 🔵 更新了四個模組
+## 🗑️📦模組移除
+- 移除 [I Can't Update - Bundles Of Bravery](https://modrinth.com/mod/icu_bundles)
+- 移除 [Immersive Furniture](https://modrinth.com/mod/immersive-furniture)
 
-## ⚙️設定變動
+## 🔄📦模組更新
+- 更新 Client Sort
+- 更新 Moonlight Lib
+- 更新 Packet Fixer
+- 更新 Sodium Options Mod Compat
+
+## ⚙️設定調整
 - **ClientSort**：伺服器加速（透過伺服器整理）的預設值已改為**停用**，現在一律由**用戶端處理整理**，以解決大儲物箱無法整理的問題。
