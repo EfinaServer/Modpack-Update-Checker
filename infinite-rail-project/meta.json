@@ -34,7 +34,7 @@
     },
     {
       "id":"1.2.1",
-      "type":"major",
+      "type":"minor",
       "releasedAt":1756654620000,
       "promotions":{
         "downloads":{
@@ -44,7 +44,7 @@
     },
     {
       "id":"1.2.2",
-      "type":"major",
+      "type":"minor",
       "releasedAt":1757175240000,
       "promotions":{
         "downloads":{
@@ -54,7 +54,7 @@
     },
     {
       "id":"1.2.3",
-      "type":"major",
+      "type":"minor",
       "releasedAt":1757381280000,
       "promotions":{
         "downloads":{
@@ -64,7 +64,7 @@
     },
     {
       "id":"1.2.4",
-      "type":"major",
+      "type":"minor",
       "releasedAt":1757686432000,
       "promotions":{
         "downloads":{
@@ -74,3 +74,4 @@
     }
   ]
 }
+
