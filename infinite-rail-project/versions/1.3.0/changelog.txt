@@ -1,0 +1,68 @@
+# 🦆 小動物與裝飾性更新
+小、小、小動物！光是聽起來就很療癒對吧？再搭配些裝飾、雨傘、還有——酒……完美 🍶✨
+
+這次更新主要聚焦在小動物與裝飾相關內容，帶給你更多可愛又生活感滿滿的細節！
+
+### 🧺 更新重點
+- 一些原本無法從世界中獲得的水果，現在能透過村民交易取得囉！
+- 鴨子的掉落物用途變多了，不再只是可愛而已 🦆
+- 將 JEI 換成 REI，讓你能更方便地查詢 Tag，或用「精靈文」搜尋（x）
+- 新增多款效能優化模組，包含區塊載入優化與 Observable —— 能偵測伺服器卡頓的好幫手（僅管理員或許可後可用）
+- 當然，還有一大堆可愛的娃娃登場！🧸💖
+- 現在連原版食物都能直接放在地板上展示啦 🍗
+
+------
+
+## ⚙️設定調整
+- 理解雞肉，成為雞肉！
+- 隱藏部分無法接觸到的配方，避免混淆
+- 隱藏了單人模式的實驗性警告介面，減少多餘操作
+- 新增 Farmer's Delight Expansion 無法獲得的水果至村民交易中
+- 替換 JEI 模組成 REI
+
+## ✨📦新增模組
+### 🧩 替換模組
+- JEI -> [Roughly Enough Items (REI)](https://modrinth.com/mod/rei)
+
+### ⚙️ 系統性模組
+- [KubeJS](https://modrinth.com/mod/kubejs)
+- [MoreJS: KubeJS Addon](https://modrinth.com/mod/morejs)
+
+### 🚀 優化性模組
+- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
+- [Noisium](https://modrinth.com/mod/noisium)
+- [Observable](https://modrinth.com/mod/observable)
+- [Let Me Despawn](https://modrinth.com/plugin/lmd)
+   - [Almanac](https://modrinth.com/mod/almanac)
+- [Hide Experimental Warning](https://modrinth.com/mod/hide-experimental-warning)
+   - [Collective](https://modrinth.com/mod/collective)
+
+ ### 🪴 裝飾性模組
+- [Trofers](https://modrinth.com/mod/trofers)
+- [Convenient Decor](https://modrinth.com/mod/convenient-decor)
+- [Plushie Buddies](https://modrinth.com/mod/plushie-buddies)
+- [Night Lights](https://modrinth.com/mod/nightlights)
+- [Decorative Food](https://modrinth.com/mod/decorative-food)
+- [Smoke Signals](https://modrinth.com/mod/smoke-signals)
+- [Real Arrow Tip](https://modrinth.com/mod/real-arrow-tip)
+- [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc)
+
+### 🌾 內容性模組
+- [Faunify](https://modrinth.com/mod/faunify)
+- [Overweight Farming](https://modrinth.com/mod/overweight-farming)
+- [Ghost](https://modrinth.com/mod/ghost)
+- [Brewin' And Chewin' [Fabric]](https://modrinth.com/mod/brewin-and-chewin-fabric)
+- [SwingThrough](https://modrinth.com/mod/swingthrough)
+
+## 🔄📦模組更新
+- 更新 22 個模組
+
+## 🔄🎨資源包更新
+- 更新 ParaTranslationPack
+- 更新 IRPAL 由雷克斯補充部分翻譯
+
+## 🔄🌃光影包更新
+- 更新 Complementary Shaders - Reimagined
+- 更新 Complementary Shaders - Unbound
+
+------
