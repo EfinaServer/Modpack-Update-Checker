@@ -1,0 +1,40 @@
+# 🎄 聖誕裝飾更新
+
+好耶～年末的氣氛越來越濃了！
+聖誕節與新的一年就在眼前，本次更新也替大家準備了一點節慶驚喜 🎁
+
+這次加入了全新的**聖誕節裝飾**、**亞洲風格裝飾**，以及暖心又暖胃的**聖誕節大餐**🍴
+同時也實裝了**全新的任務系統**與**貨幣**，以後終於不用再辛苦以物易物啦！
+
+------
+
+## ⚙️設定調整
+- 調整任務的快捷鍵，目前預設為 `o`
+  - **限全新安裝才會套用設定**
+- 任務初始化
+  - 任務每日會刷新
+  - (未來可能依情況持續調整或新增內容)
+- 清除未使用到的程式碼
+- Carry On 新增兩項黑名單，釀酒模組的放置酒杯無法再被搬起
+
+## ✨📦新增模組
+### 🌾 內容性模組
+- [Festive Delight](https://modrinth.com/mod/festive-delight)
+- [Create: Numismatics](https://modrinth.com/mod/numismatics)
+- [Create: Missions](https://modrinth.com/mod/missions)
+
+### 🚀 優化性模組
+- [Create: Threaded Trains](https://modrinth.com/mod/create-threaded-trains) - (伺服端)
+
+### 🪴 裝飾性模組
+- [Snowy Spirit](https://modrinth.com/mod/snowy-spirit)
+- [Fetzi's Asian Decoration](https://modrinth.com/mod/fetzis-asian-decoration)
+- [Fetzi's Displays](https://modrinth.com/mod/fetzis-displays)
+
+## 🔄📦模組更新
+- 更新 39 個模組
+
+## 🔄🎨資源包更新
+- 更新模組翻譯包
+- 更新 Para 翻譯包
+- 更新 IRPAL 翻譯包，部分更新內容採 AI 翻譯，可能會有些錯誤
