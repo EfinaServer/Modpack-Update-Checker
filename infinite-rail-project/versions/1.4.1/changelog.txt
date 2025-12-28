@@ -1,0 +1,18 @@
+# 🐛定期更新與錯誤修正
+本次更新了模組並將 Decorative Food 降為 1.0.2 以修正 Supplementaries 可放置物品無法放置的問題
+也將 MoreCulling 方塊狀態剃除預設為關閉，但此設定僅限定於全新安裝的實例才會套用
+若遇到 Create 儲物倉紋理為分離狀態，可由選項 ->顯示設定 -> More Culling 類別中的方塊狀態剃除關閉即可
+
+## ⚙️設定調整
+- MoreCulling 的方塊狀態剃除預設為關閉
+
+## 🔄📦模組更新
+- 更新 6 個模組
+- 固定 Decorative Food 1.0.2
+
+## 🔄🎨資源包更新
+- 更新 ParaTranslationPack
+- 更新 ModsTranslationPack
+
+## 🔄🌃光影包更新
+- 更新 BSL Shaders
